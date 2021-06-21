@@ -1,5 +1,5 @@
 import React from "react";
-import App from "../App";
+import "./About.css";
 
 function About() {
   return <span>about</span>;
